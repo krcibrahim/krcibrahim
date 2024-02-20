@@ -3,6 +3,8 @@
 <h3 align="left">📚 I am learning C# and python programming languages.</h3>
 <h3 align="left">📅 I am 20 years old.</h3>
 
+<h3 align="left">ℹ About Me: I love writing code and being interested in technology. In my spare time I watch movies and play computer games.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krcibrahim&label=Profile%20views&color=b40e0e&style=plastic" alt="krcibrahim" /> </p>
 
 <h3 align="left">Connect with me:</h3>
