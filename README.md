@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krcibrahim&label=Profile%20views&color=b40e0e&style=plastic" alt="krcibrahim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krcibrahim" alt="krcibrahim" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ibrahimkrc.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimkrc.py" height="30" width="40" /></a>
@@ -16,4 +14,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krcibrahim&show_icons=true&theme=dark&locale=en" alt="krcibrahim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krcibrahim&theme=dark" alt="krcibrahim" /></p>
-
