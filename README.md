@@ -1,5 +1,4 @@
 <h1 align="left">🗣 Hi, my name is İbrahim Halil</h1>
-<h3 align="left">👨🏻‍💻 I am a software developer living in Turkey.</h3>
 <h3 align="left">📚 I am learning C# and python programming languages.</h3>
 <h3 align="left">📅 I am 20 years old.</h3>
 
